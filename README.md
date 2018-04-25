@@ -20,4 +20,4 @@ Located in the lab repository is a simple Rails application called `javascript_m
 
 When you finish, start the rails server with `rails server` and browse to http://localhost:3000 for the Application layout and http://localhost:3000/admin for the Admin layout. If you open Chrome dev tools and go to the elements tab, you should see the files you included in your manifest files as script tags in the head tag.
 
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/javascript-manifests-lab' title='Javascript Manifests Lab'>Javascript Manifests Lab</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>PHRG Javascript Manifests Lab</p>
